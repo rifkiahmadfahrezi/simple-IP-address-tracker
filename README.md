@@ -1,1 +1,1 @@
-simple IP address tracker from [https://frontendmentor.io](frontendmentor.io)
+simple IP address tracker from [frontendmentor.io](https://frontendmentor.io)
